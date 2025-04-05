@@ -1,4 +1,4 @@
-# 💼 Flutter Business Card Application
+# 💼 Flutter Business Card App
 
 A fully customizable and elegant Flutter business card app. 
 This project features a modern layout with a profile picture, name, title, contact info, address, website, social media icons, and a QR code. 
