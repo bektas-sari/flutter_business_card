@@ -1,10 +1,8 @@
 # 💼 Flutter Business Card App
 
-A fully customizable and elegant Flutter business card app. This project features a modern layout with a profile picture, name, title, contact info, address, website, social media icons, and a QR code. Ideal for showcasing your personal or professional brand in mobile or web environments.
-
-## 📸 Screenshot
-
-*Coming Soon*
+A fully customizable and elegant Flutter business card app. 
+This project features a modern layout with a profile picture, name, title, contact info, address, website, social media icons, and a QR code. 
+Ideal for showcasing your personal or professional brand in mobile or web environments.
 
 ## ✨ Features
 
@@ -38,7 +36,7 @@ assets/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/flutter_business_card.git
+git clone https://github.com/bektas-sari/flutter_business_card.git
 cd flutter_business_card
 ```
 
@@ -80,7 +78,7 @@ flutter run
 
 ## 👨‍💻 Author
 
-**[@your-username](https://github.com/your-username)**
+**(https://github.com/bektas-sari)**
 
 This app is part of my Flutter learning and personal branding journey.
 
