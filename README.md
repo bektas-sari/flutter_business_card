@@ -25,12 +25,16 @@ Support for light/dark themes, color palettes, fonts, and spacing adjustments �
 * Responsive Layout
 Optimized for both portrait and landscape orientations, and fully adaptable to smartphones, tablets, and web browsers.
 
+---
+
 ## 🚀 Technologies Used
 
 - Flutter
 - Dart
 - [qr_flutter](https://pub.dev/packages/qr_flutter) for QR code generation
 - Material Design 3
+
+---
 
 ## 📁 Project Structure
 
@@ -40,6 +44,8 @@ lib/
 assets/
  └── profile.jpg         # Optional local profile image
 ```
+
+---
 
 ## 🔧 Getting Started
 
@@ -71,6 +77,8 @@ flutter:
 flutter run
 ```
 
+---
+
 ## 🧠 What You’ll Learn
 
 - Creating professional layouts using Flutter widgets like `Card`, `Column`, `ListTile`
@@ -79,6 +87,8 @@ flutter run
 - Adding QR codes with the `qr_flutter` package
 - Building responsive and scrollable UI
 
+---
+
 ## 🔮 Future Enhancements
 
 - Integrate real social media links
@@ -86,11 +96,18 @@ flutter run
 - Theme switch (light/dark mode)
 - Export card as a PDF
 
-## 👨‍💻 Author
+---
 
-**(https://github.com/bektas-sari)**
+## 👤 Developer
 
-This app is part of my Flutter learning and personal branding journey.
+**Bektas Sari**  
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
+
+---
 
 ## 📝 License
 
